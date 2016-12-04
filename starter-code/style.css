@@ -12,6 +12,7 @@
 	border-radius: 10px;
 	float: left;
 	margin: 8%;
+	
 }
 nav{
 	background-color: #808080;
@@ -57,4 +58,8 @@ body {
 }
 footer {
 	background-color: #808080;
+}
+img {
+	height: 200px;
+	width: 150px;
 }
